@@ -1,0 +1,22 @@
+.NET   数据库   数据处理   数据挖掘   web开发   .net框架
+ASP   数据库   架构设计   分布式   WCF   C#
+C#   数据库   面向对象   网络   数据通讯   MVVM
+C++   架构设计   数据库   算法   设计模式   GUI开发
+C   数据库   算法   数据结构   linux   脚本语言
+Delphi   数据库   游戏   设计模式   单元测试   数据结构
+Docker   运维   网络   虚拟化   架构设计   数据库   Docker    Golang
+Go   数据库   服务化   算法   服务端   架构设计    Linux   C++
+Hadoop    集群   数据仓库   架构设计   数据处理   运维   HBase   Spark   Hive
+HBase   数据库   数据仓库   架构设计   设计模式   分布式    Linux   Hadoop生态
+Java   数据库   设计模式   架构设计   分布式   单元测试   MVC   XML   Java   J2EE
+Node.JS   数据库   架构设计   服务端   javascript   分布式   Express   KOA   Node.js
+Openstack   运维   虚拟化   网络   架构设计   Openstack   Linux
+Php   数据库   架构设计   网站   后台   数据结构   javascript   MVC   HTML   CSS   Jquery   PHP
+Python   数据库   架构设计   数据结构   算法   web框架   JavaScript    Python
+Ruby   数据库   架构设计   网络   服务端   运维   Ruby    Rails   MVC   AWS
+Spark   数据处理   算法   数据挖掘   分布式   分布式计算   Java   Scala   Hadoop
+全栈工程师   数据库   全栈   区块   架构设计   web开发   前端框架   MVC
+推荐系统   算法   数据结构   数据挖掘   分布式   搜索引擎    Python   Java   Spark
+搜索引擎   搜索引擎   算法   网站   排序   架构设计   Java    Python  开源搜索引擎
+数据挖掘   数据挖掘   算法   建模   数据处理   聚类   神经网络   机器学习
+自然语言处理   算法   图谱   语义   分词   数据挖掘   机器学习    模式识别
